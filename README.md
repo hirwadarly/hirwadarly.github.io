@@ -1,0 +1,2 @@
+# proverbs
+Proverbs and stories
